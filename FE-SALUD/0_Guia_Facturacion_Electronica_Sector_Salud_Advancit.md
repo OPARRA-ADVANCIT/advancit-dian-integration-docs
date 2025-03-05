@@ -775,7 +775,7 @@ Donde `[nombre_campo_XML]` hace referencia a la sección específica del JSON qu
 | `sedaws`          | `DATOEMP`          | Datos de la empresa que emite el documento           |
 | `sedecu`          | `DESCDOC`          | Descuento del Documento				|
 | `datsal`          | `DATSAL`           | Datos Sector Salud					|
-| `seepai`          | `PREPAI`           | Información sobre el pago previo sector salud	|
+| `prepai`          | `PREPAI`           | Información sobre el pago previo sector salud	|
 | `pursal`          | `PURSAL`           | Datos relacionados con archivos                     	|
 | `puesal`          | `PUESAL`           | Datos relacionados con archivos adicionales          |
 
