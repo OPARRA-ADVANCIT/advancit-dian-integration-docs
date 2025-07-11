@@ -15,7 +15,7 @@ Este repositorio contiene la documentación técnica y ejemplos para integrar co
 - [Consulta de Attachments](./consulta-attachments/)
 
 ### Servicios Especiales
-- [Consulta de Documento DIAN](./consulta-documento-dian/)
+- [Consulta de Documento DIAN](./consulta-adquiriente/)
 - [Documento Soporte](./documento-soporte/)
 - [Nómina Electrónica](./nomina-electronica/)
 - [Nota Crédito sin Referencia](./nota-credito-sin-referencia/)

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:documents" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ns2="http://xml.apache.org/xml-soap" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body>
+		<ns1:cons_client>
+			<sendoc xsi:type="ns2:Map">
+				<item>
+				<key xsi:type="xsd:string">nitemp</key>
+				<value xsi:type="xsd:string">900009994</value>
+				</item>
+				<item>
+				<key xsi:type="xsd:string">certif</key>
+				<value xsi:type="xsd:string">Certificado.p12</value>
+				</item>
+				<item>
+				<key xsi:type="xsd:string">pascer</key>
+				<value xsi:type="xsd:string">contraseñadeCertificado</value>
+				</item>
+                <item>
+				<key xsi:type="xsd:string">tipide</key>
+				<value xsi:type="xsd:string">31</value>
+				</item>
+                <item>
+				<key xsi:type="xsd:string">numide</key>
+				<value xsi:type="xsd:string">901275691</value>
+				</item>
+			</sendoc>
+		</ns1:cons_client>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

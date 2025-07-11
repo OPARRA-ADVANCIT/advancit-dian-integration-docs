@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:documents" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body>
+        <ns1:cons_clientResponse>
+            <return xsi:type="xsd:string">{"RESDIA":{"maiadq":"gerencia@advancit.co","nomadq":"ADVANCED INFORMATION TECHNOLOGIES S.A.S"}}</return>
+        </ns1:cons_clientResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
