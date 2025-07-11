@@ -24,4 +24,4 @@ Este repositorio contiene la documentación técnica y ejemplos para integrar co
 
 ## 📬 Contacto
 
-Para soporte técnico, escribe a soporte@advancit.co
+Para soporte técnico, escribe a helpdesk@advancit.co
