@@ -78,4 +78,4 @@ Respuesta exitosa:
 ## 📞 Soporte
 
 Si presentas inconvenientes con este servicio, puedes comunicarte con el equipo de soporte técnico a través de:  
-📧 **soporte@advancit.co**
+📧 **helpdesk@advancit.co**
