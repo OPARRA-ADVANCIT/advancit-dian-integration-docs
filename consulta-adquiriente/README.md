@@ -27,7 +27,7 @@ Este método debe ser consumido bajo el protocolo SOAP y requiere el envío de u
 | Campo   | Descripción |
 |---------|-------------|
 | `nitemp` | NIT de la empresa que realiza la consulta (tu empresa como aliado ADVANCIT). |
-| `certif` | Nombre del archivo del certificado de firma electrónica usado para habilitación. Ej: `Certificado.p12`. |
+| `certif` | Nombre del archivo del certificado de firma electrónica usado para habilitación. Ej: `Certificado.p12`. (opcional) |
 | `pascer` | Contraseña del certificado de firma electrónica. |
 | `tipide` | Tipo de documento del adquiriente a consultar. Corresponde a la tabla de referencia `13.2.1` del Anexo Técnico 1.9 de la DIAN (Tipo de Identificador Fiscal). Ej: `31` para NIT, `13` para Cédula de Ciudadanía, etc. |
 | `numide` | Número del documento de identificación del adquiriente. |
